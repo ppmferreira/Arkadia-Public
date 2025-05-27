@@ -34,7 +34,7 @@ Este repositório foi criado para apresentar o **Arkadia** ao público e demonst
 ## Acesso ao Projeto
 Para mais informações sobre o Arkadia, visite o site oficial:
 
-[Arkadia Grand Fantasia](https://www.gamearkadia.com.br)
+https://www.gamearkadia.com.br
 
 ---
 
